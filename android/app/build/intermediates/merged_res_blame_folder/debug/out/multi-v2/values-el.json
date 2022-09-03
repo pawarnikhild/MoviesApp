@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NIKHIL\\Desktop\\MoviesApp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
+            "outputFile": "C:\\Nikhil10\\AStudy\\Code\\Projects Backup\\MoviesApp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
             "map": [
                 {
                     "source": "C:\\Users\\NIKHIL\\.gradle\\caches\\transforms-3\\f382564408e8806e991bcb7c984abfd6\\transformed\\core-1.5.0\\res\\values-el\\values-el.xml",
